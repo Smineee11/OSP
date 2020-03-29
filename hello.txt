@@ -1,5 +1,2 @@
-
-<<<<<<< HEAD
 branch 1
-=======
->>>>>>> hello.txt added
+hello world branch2~~~
