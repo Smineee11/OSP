@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/python
 
 n = int(input("fibonacci number?: "))
 
