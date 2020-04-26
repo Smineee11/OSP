@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/python
 import sys
 
 N= int(input("How many numbers? : "))
